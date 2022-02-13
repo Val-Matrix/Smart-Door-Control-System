@@ -7,5 +7,5 @@
    
 2. Software  
    - [System Program Flowchart](https://github.com/Val-Matrix/Smart-Door-Control-System/blob/main/uP%20Project%20Program%20Flowchart.png)
-   - [System Assembly Program](https://github.com/Val-Matrix/Smart-Door-Control-System/blob/main/uP%20Project.asm)
-   - [Modified System Assembly Program for EMU8086](https://github.com/Val-Matrix/Smart-Door-Control-System/blob/main/uP%20Project%20(EMU8086).asm)
+   - [Assembly Program](https://github.com/Val-Matrix/Smart-Door-Control-System/blob/main/uP%20Project.asm)
+   - [Modified Assembly Program for EMU8086](https://github.com/Val-Matrix/Smart-Door-Control-System/blob/main/uP%20Project%20(EMU8086).asm)
