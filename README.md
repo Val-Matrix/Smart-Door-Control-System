@@ -3,7 +3,7 @@
 
 ***Directory:***
 1. Hardware  
-   - [System Hardware Schematic](https://github.com/Val-Matrix/Smart-Door-Control-System/blob/main/uP%20Project%20Hardware%20Schematic.pdf)
+   - [System Hardware Schematic](https://github.com/Val-Matrix/Smart-Door-Control-System/blob/main/uP%20Project%20Hardware%20Schematic.png)
    
 2. Software  
    - [System Program Flowchart](https://github.com/Val-Matrix/Smart-Door-Control-System/blob/main/uP%20Project%20Program%20Flowchart.png)
