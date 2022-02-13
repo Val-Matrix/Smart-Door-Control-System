@@ -2,4 +2,4 @@
 ## A group project to design a 8086 microprocessor-based smart system that controls the door automatically based on measured temperature and whether a face mask is present.
 
 Directory:
-[System Hardware Schematic](uP Project Hardware Schematic.pdf)
+[System Hardware Schematic](/uP Project Hardware Schematic.pdf)
