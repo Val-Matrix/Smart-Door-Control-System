@@ -1,5 +1,5 @@
 # Automated Human Temperature and Face Mask Detection Door System
-### This repository contains PDF, PNG and ASM files relevant for the Microprocessors & Microcomputers Group Project
+### This repository contains PNG and ASM files relevant for the Microprocessors & Microcomputers Group Project
 
 ***Directory:***
 1. Hardware  
